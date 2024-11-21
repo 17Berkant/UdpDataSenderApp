@@ -1,0 +1,10 @@
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\bin\Debug\UdpDataSenderApp.exe.config
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\bin\Debug\UdpDataSenderApp.exe
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\bin\Debug\UdpDataSenderApp.pdb
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\obj\Debug\UdpDataSenderApp.csproj.AssemblyReference.cache
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\obj\Debug\UdpDataSenderApp.Form1.resources
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\obj\Debug\UdpDataSenderApp.Properties.Resources.resources
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\obj\Debug\UdpDataSenderApp.csproj.GenerateResource.cache
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\obj\Debug\UdpDataSenderApp.csproj.CoreCompileInputs.cache
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\obj\Debug\UdpDataSenderApp.exe
+E:\GitLab\MyProjects\UpdDataSenderApp\UdpDataSenderApp\UdpDataSenderApp\obj\Debug\UdpDataSenderApp.pdb
